@@ -1,5 +1,6 @@
 package springframework.sdjpa.bootstrap;
 
+
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import springframework.sdjpa.domain.Book;
